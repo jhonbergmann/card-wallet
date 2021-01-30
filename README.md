@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<p align="center">Carteira de cartões, organização de dados</p>
+<p align="center">Carteira de cartões, organização de dados.</p>
 
 <p align="center">
    <img src="for-readme-github/gif01.gif" alt="Demo" >
@@ -26,23 +26,14 @@ Aplicação desenvolvida para auxiliar na organização de cartões, o app é um
 - [Javascript](https://devdocs.io/javascript/)
 - [Node](https://nodejs.org/en/)
 <br/>-<br/>
-  "dependencies": <br/>
-    "@react-native-async-storage/async-storage": "^1.13.2", <br/>
-    "@react-native-community/masked-view": "^0.1.10", <br/>
-    "@react-navigation/native": "^5.8.10", <br/>
-    "@react-navigation/stack": "^5.12.8", <br/>
-    "lottie-react-native": "^3.5.0", <br/>
-    "moment": "^2.29.1", <br/>
-    "react-native": "0.63.4",<br/>
-    "react": "16.13.1", <br/>
-    "react-moment": "^1.1.1", <br/>
-    "react-native-gesture-handler": "^1.9.0", <br/>
-    "react-native-linear-gradient": "^2.5.6", <br/>
-    "react-native-onesignal": "^3.9.3", <br/>
-    "react-native-reanimated": "^1.13.2", <br/>
-    "react-native-safe-area-context": "^3.1.9", <br/>
-    "react-native-screens": "^2.16.1", <br/>
-    "react-native-vector-icons": "^7.1.0" <br/>
+- [Async Storage](https://react-native-async-storage.github.io/async-storage/)
+- [Lottie](https://airbnb.io/lottie/#/)
+- [Moment](https://momentjs.com/)
+- [Lottie](https://airbnb.io/lottie/#/)
+- [Linear-Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
+- [OneSignal](https://documentation.onesignal.com/docs/react-native-sdk-setup)
+
+*Foram usados outros Frameworks no projeto, mas esses são os principais.*
 
 ## 🔔 Notificações | OneSignal
 
