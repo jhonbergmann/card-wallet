@@ -37,8 +37,10 @@ Aplicação desenvolvida para auxiliar na organização de cartões, o app é um
 
 ## 🔔 Notificações | OneSignal
 
-Para enviar notificações você precisa ter uma conta em onesignal.com, após as configuração basta colocar o App ID: em `OneSignal.init('')` dentro do `useEffect` no componente Home.js, assim:<br />
-`import OneSignal from 'react-native-onesignal'`<br /><br />
+Para enviar notificações você precisa ter uma conta em onesignal.com, após as configuração basta colocar o App ID: em `OneSignal.init('')` dentro do `useEffect` no componente Home.js, assim:
+<br /><br />
+`import OneSignal from 'react-native-onesignal'`
+<br /><br />
 `useEffect(() => {`<br />
     `OneSignal.init('APP ID')`<br />
     `OneSignal.addEventListener('opened', onOpened)`<br />
