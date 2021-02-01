@@ -28,20 +28,6 @@
 
 Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma carteira digital com possibilidade de adicionar dados aos cartões virtuais com dados digitais de cartões reais. O app tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal (precisa ser individual). Aplicação desenvolvida para ajudar meu pai, que sempre esquecia do vencimento da fatura de seus cartões.
 
-## 🛠 Tecnologias
-- [React Native](https://facebook.github.io/react-native/)
-- [Javascript](https://devdocs.io/javascript/)
-- [Node](https://nodejs.org/en/)
-<br/>-<br/>
-- [Async Storage](https://react-native-async-storage.github.io/async-storage/)
-- [Lottie](https://airbnb.io/lottie/#/)
-- [Moment](https://momentjs.com/)
-- [Lottie](https://airbnb.io/lottie/#/)
-- [Linear-Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
-- [OneSignal](https://documentation.onesignal.com/docs/react-native-sdk-setup)
-
-*Foram usados outros Frameworks no projeto, mas esses são os principais.*
-
 ## 🔔 Notificações | OneSignal
 
 Para enviar notificações você precisa ter uma conta em onesignal.com, após as configuração basta colocar o App ID: em `OneSignal.init('')` dentro do `useEffect` no componente Home.js, assim:
@@ -53,6 +39,19 @@ Para enviar notificações você precisa ter uma conta em onesignal.com, após a
     `OneSignal.addEventListener('opened', onOpened)`<br />
     `return () => OneSignal.removeEventListener('opened', onOpened)`<br />
 `}, [])`
+
+## 🛠 Tecnologias
+- [React Native](https://facebook.github.io/react-native/)
+- [Javascript](https://devdocs.io/javascript/)
+- [Node](https://nodejs.org/en/)
+<br/>-<br/>
+- [Async Storage](https://react-native-async-storage.github.io/async-storage/)
+- [Lottie](https://airbnb.io/lottie/#/)
+- [Moment](https://momentjs.com/)
+- [Linear-Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
+- [OneSignal](https://documentation.onesignal.com/docs/react-native-sdk-setup)
+
+*Foram usados outros Frameworks no projeto, mas esses são os principais.*
 
 ## 📱 Executando 
 
