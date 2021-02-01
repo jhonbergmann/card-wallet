@@ -5,6 +5,13 @@
   <br>
 </h1>
 
+<p align="center">
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JhonatanBergmann/card-wallet" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/JhonatanBergmann/card-wallet" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JhonatanBergmann/card-wallet" />
+  <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/card-wallet" />
+</p>
+
 <p align="center">Carteira de cartões, organização de dados.</p>
 
 <p align="center">
