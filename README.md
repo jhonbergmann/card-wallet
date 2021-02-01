@@ -19,7 +19,7 @@
 
 ## 📅 Sobre
 
-Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma carteira digital com possibilidade de adicionar dados aos cartões virtuais com dados digitais de cartões reais. O app tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal (precisa ser individual).
+Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma carteira digital com possibilidade de adicionar dados aos cartões virtuais com dados digitais de cartões reais. O app tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal (precisa ser individual). Aplicação desenvolvida para ajudar meu pai, que sempre esquecia do vencimento da fatura de seus cartões.
 
 ## 🛠 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
