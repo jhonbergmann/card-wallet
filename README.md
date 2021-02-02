@@ -16,12 +16,12 @@
 
 <p align="center">
    <img src="for-readme-github/gif1.gif" alt="Demo" >
-   <img src="for-readme-github/gif2.gif" alt="Demo" >
-   <img src="for-readme-github/gif3.gif" alt="Demo" >
-   <img src="for-readme-github/gif4.gif" alt="Demo" >
-   <img src="for-readme-github/gif5.gif" alt="Demo" >
-   <img src="for-readme-github/gif6.gif" alt="Demo" >
-   <img src="for-readme-github/gif7.gif" alt="Demo" >
+   <img src="for-readme-github/gif2.gif" alt="Demo" width="270" height="580" >
+   <img src="for-readme-github/gif3.gif" alt="Demo" width="270" height="580" >
+   <img src="for-readme-github/gif4.gif" alt="Demo" width="270" height="580" >
+   <img src="for-readme-github/gif5.gif" alt="Demo" width="270" height="580" >
+   <img src="for-readme-github/gif6.gif" alt="Demo" width="270" height="580" >
+   <img src="for-readme-github/gif7.gif" alt="Demo" width="270" height="580" >
    <img src="for-readme-github/gif8.gif" alt="Demo" >
 </p>
 
