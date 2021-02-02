@@ -5,6 +5,13 @@
   <br>
 </h1>
 
+<p align="center">
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JhonatanBergmann/card-wallet" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/JhonatanBergmann/card-wallet" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JhonatanBergmann/card-wallet" />
+  <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/card-wallet" />
+</p>
+
 <p align="center">Carteira de cartões, organização de dados.</p>
 
 <p align="center">
@@ -19,7 +26,19 @@
 
 ## 📅 Sobre
 
-Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma carteira digital com possibilidade de adicionar dados aos cartões virtuais com dados digitais de cartões reais. O app tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal (precisa ser individual).
+Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma carteira digital com possibilidade de adicionar dados aos cartões virtuais com dados digitais de cartões reais. O app tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal (precisa ser individual). Aplicação desenvolvida para ajudar meu pai, que sempre esquecia do vencimento da fatura de seus cartões.
+
+## 🔔 Notificações | OneSignal
+
+Para enviar notificações você precisa ter uma conta em onesignal.com, após as configuração basta colocar o App ID: em `OneSignal.init('')` dentro do `useEffect` no componente Home.js, assim:
+<br /><br />
+`import OneSignal from 'react-native-onesignal'`
+<br /><br />
+`useEffect(() => {`<br />
+    `OneSignal.init('APP ID')`<br />
+    `OneSignal.addEventListener('opened', onOpened)`<br />
+    `return () => OneSignal.removeEventListener('opened', onOpened)`<br />
+`}, [])`
 
 ## 🛠 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
@@ -29,14 +48,10 @@ Aplicação desenvolvida para auxiliar na organização de cartões, o app é um
 - [Async Storage](https://react-native-async-storage.github.io/async-storage/)
 - [Lottie](https://airbnb.io/lottie/#/)
 - [Moment](https://momentjs.com/)
-- [Lottie](https://airbnb.io/lottie/#/)
 - [Linear-Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
 - [OneSignal](https://documentation.onesignal.com/docs/react-native-sdk-setup)
 
 *Foram usados outros Frameworks no projeto, mas esses são os principais.*
-
-## 🔔 Notificações | OneSignal
-
 
 ## 📱 Executando 
 
