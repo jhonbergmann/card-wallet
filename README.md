@@ -15,13 +15,14 @@
 <p align="center">Carteira de cartões, organização de dados.</p>
 
 <p align="center">
-   <img src="for-readme-github/gif01.gif" alt="Demo" >
-   <img src="for-readme-github/gif02.gif" alt="Demo" >
-   <img src="for-readme-github/gif03.gif" alt="Demo" >
-   <img src="for-readme-github/gif04.gif" alt="Demo" >
-   <img src="for-readme-github/gif05.gif" alt="Demo" >
-   <img src="for-readme-github/gif06.gif" alt="Demo" >
-   <img src="for-readme-github/gif07.gif" alt="Demo" >
+   <img src="for-readme-github/gif1.gif" alt="Demo" >
+   <img src="for-readme-github/gif2.gif" alt="Demo" >
+   <img src="for-readme-github/gif3.gif" alt="Demo" >
+   <img src="for-readme-github/gif4.gif" alt="Demo" >
+   <img src="for-readme-github/gif5.gif" alt="Demo" >
+   <img src="for-readme-github/gif6.gif" alt="Demo" >
+   <img src="for-readme-github/gif7.gif" alt="Demo" >
+   <img src="for-readme-github/gif8.gif" alt="Demo" >
 </p>
 
 ## 📅 Sobre
