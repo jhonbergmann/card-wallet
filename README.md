@@ -44,6 +44,11 @@ Para enviar notificações você precisa ter uma conta em onesignal.com, após a
     `OneSignal.addEventListener('opened', onOpened)`<br />
     `return () => OneSignal.removeEventListener('opened', onOpened)`<br />
 `}, [])`
+<br /><br />
+ID:<br />
+<p align="center">
+   <img src="for-readme-github/screenshoot.png" alt="Image" >
+</p>
 
 ## 🛠 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
