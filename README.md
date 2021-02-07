@@ -19,9 +19,12 @@
 </p>
 <p align="center">
    <img src="readme/gif2.gif" alt="Demo" width="350" height="700" >
-   <img src="readme/for02.png" alt="Img" width="350" height="200" >
+   <img src="readme/for02.png" alt="Img" width="300" height="200" >
+</p>
+<p align="center">
    <img src="readme/gif3.gif" alt="Demo" width="350" height="700" >
-   <img src="readme/for03.png" alt="Img" width="350" height="200" >
+   <img src="readme/for03.png" alt="Img" width="300" height="200" >
+</p>
    <img src="readme/gif4.gif" alt="Demo" width="350" height="700" >
    <img src="readme/gif5.gif" alt="Demo" width="350" height="700" >
    <img src="readme/gif6.gif" alt="Demo" width="350" height="700" >
