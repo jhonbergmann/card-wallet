@@ -15,18 +15,20 @@
 <p align="center">Carteira de cartões, organização de dados.</p>
 
 <p align="center">
-   <img src="for-readme-github/gif1.gif" alt="Demo" >
+   <img src="readme/gif1.gif" alt="Demo" >
 </p>
 <p align="center">
-   <img src="for-readme-github/gif2.gif" alt="Demo" width="350" height="700" >
-   <img src="for-readme-github/gif3.gif" alt="Demo" width="350" height="700" >
-   <img src="for-readme-github/gif4.gif" alt="Demo" width="350" height="700" >
-   <img src="for-readme-github/gif5.gif" alt="Demo" width="350" height="700" >
-   <img src="for-readme-github/gif6.gif" alt="Demo" width="350" height="700" >
-   <img src="for-readme-github/gif7.gif" alt="Demo" width="350" height="700" >
+   <img src="readme/gif2.gif" alt="Demo" width="350" height="700" >
+   <img src="readme/for02.png" alt="Img" width="350" height="200" >
+   <img src="readme/gif3.gif" alt="Demo" width="350" height="700" >
+   <img src="readme/for03.png" alt="Img" width="350" height="200" >
+   <img src="readme/gif4.gif" alt="Demo" width="350" height="700" >
+   <img src="readme/gif5.gif" alt="Demo" width="350" height="700" >
+   <img src="readme/gif6.gif" alt="Demo" width="350" height="700" >
+   <img src="readme/gif7.gif" alt="Demo" width="350" height="700" >
 </p>
 <p align="center"> 
-   <img src="for-readme-github/gif8.gif" alt="Demo" >
+   <img src="readme/gif8.gif" alt="Demo" >
 </p>
 
 ## 📅 Sobre
@@ -47,7 +49,7 @@ Para enviar notificações você precisa ter uma conta em onesignal.com, após a
 <br /><br />
 ID:<br />
 <p align="center">
-   <img src="for-readme-github/screenshoot.png" alt="Image" >
+   <img src="readme/screenshoot.png" alt="Image" >
 </p>
 
 ## 🛠 Tecnologias
