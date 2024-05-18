@@ -12,7 +12,7 @@
   <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/card-wallet" />
 </p>
 
-<p align="center">Carteira de cartões, organização de dados.</p>
+<p align="center">Carteira de cartões.</p>
 
 <p align="center">
    <img src="readme/gif1.gif" alt="Demo" >
@@ -31,7 +31,9 @@
 
 ## 📅 Sobre
 
-Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma carteira digital com possibilidade de adicionar dados aos cartões virtuais com dados digitais de cartões reais. O app tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal (precisa ser individual). Aplicação desenvolvida para ajudar meu pai, que sempre esquecia do vencimento da fatura de seus cartões.
+Aplicação desenvolvida para auxiliar na organização de cartões, o app é uma "carteira" que possibilita adicionar dados aos cartões disponíveis no app com os dados do seu cartão real. Tem como alterar e/ou adicionar o vencimento da fatura, o melhor dia de compra, bandeira (MasterCard ou Visa), número final do cartão, entidade bancaria, senha e permite customizar a cor de cada cartão. Os dados são salvos e persistentes na memória do dispositivo e ainda conta com notificações com o OneSignal. 
+
+<i>Aplicação desenvolvida para ajudar meu pai, que sempre esquecia do vencimento da fatura de seus cartões.</i>
 
 ## 🔔 Notificações | OneSignal
 
@@ -53,15 +55,6 @@ ID:<br />
 ## 🛠 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
 - [Javascript](https://devdocs.io/javascript/)
-- [Node](https://nodejs.org/en/)
-<br/>-<br/>
-- [Async Storage](https://react-native-async-storage.github.io/async-storage/)
-- [Lottie](https://airbnb.io/lottie/#/)
-- [Moment](https://momentjs.com/)
-- [Linear-Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
-- [OneSignal](https://documentation.onesignal.com/docs/react-native-sdk-setup)
-
-*Foram usados outros Frameworks no projeto, mas esses são os principais.*
 
 ## 📱 Executando 
 
@@ -70,7 +63,7 @@ Para executar o projeto é necessário que você tenha o ambiente React Native c
 Depois de configurar o ambiente, basta fazer o clone do projeto:
 
 ```sh
-git clone https://github.com/JhonatanBergmann/card-wallet.git
+git clone https://github.com/jhonbergmann/card-wallet.git
 ```
 
 Entre na pasta do projeto e execute o comando para instalar as dependências do projeto:
